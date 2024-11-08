@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    background-color: #1B244A;
+}
+
+
+h3 {
+    color: white;
+}
+
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
