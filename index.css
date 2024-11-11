@@ -6,7 +6,7 @@ body {
 
 @font-face {
     font-family: 'CursedTimerUlil-Aznm';
-    src: url('/CursedTimerUlil-Aznm.ttf') format('truetype');
+    src: url('./CursedTimerUlil-Aznm.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
@@ -22,6 +22,7 @@ body {
 
 
 h3 {
+    font-family: Arial, sans-serif;
     color: white;
     font-size: 2rem;
     margin-bottom: 10px;
